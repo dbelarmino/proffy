@@ -28,7 +28,7 @@
 	🚧  Proffy ♻️ Finalizado 🚀 🚧
 </h4>
 
-<p align="center>
+<p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
