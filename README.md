@@ -25,7 +25,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Proffy ♻️ Em Andamento 🚀 🚧
+	🚧  Proffy ♻️ Finalizado 🚀 🚧
 </h4>
 
 <p align="center">
